@@ -1,0 +1,30 @@
+[
+    {
+        "id": "081e54aa",
+        "title": "sdf",
+        "author": "sdf",
+        "year": 123,
+        "status": false
+    },
+    {
+        "id": "1a026396",
+        "title": "sdf",
+        "author": "sdf",
+        "year": 334,
+        "status": false
+    },
+    {
+        "id": "302aaa69",
+        "title": "\u044b\u0432\u0430",
+        "author": "\u044b\u0430",
+        "year": 123,
+        "status": true
+    },
+    {
+        "id": "62920fa4",
+        "title": "\u044b\u0432\u0430",
+        "author": "\u044b\u0430\u0432",
+        "year": 123,
+        "status": true
+    }
+]
